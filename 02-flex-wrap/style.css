@@ -1,0 +1,9 @@
+.boxes {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 33.3%; 
+}

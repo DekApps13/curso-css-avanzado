@@ -1,0 +1,8 @@
+.boxes {
+  display: flex;
+  justify-content: space-around; /* start, end, center, space-between, space-around */
+}
+
+.box {
+  width: 25%;
+}
